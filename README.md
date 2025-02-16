@@ -9,6 +9,6 @@ Authors
 - Ivo Simões
 
 ## Repository Structure
-├── IACH_PAPER.pdf                   # Research paper detailing our methods, experiments, and results
-├── diabetes_prediction_dataset.csv  # Dataset used for testing and evaluation, sourced from [Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
-└── project.ipynb                    # Jupyter Notebook containing the code for testing, evaluating, and visualizing our methods
+- IACH_PAPER.pdf -> Research paper detailing our methods, experiments, and results
+- diabetes_prediction_dataset.csv -> Dataset used for testing and evaluation, sourced from [Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
+- project.ipynb -> Jupyter Notebook containing the code for testing, evaluating, and visualizing our methods
