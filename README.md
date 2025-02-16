@@ -1,5 +1,4 @@
-# Abstention and Active Learning: Reducing Labeling Costs andImproving Model Certainty in Healthcare Applications
-
+# Abstention and Active Learning
 This repository contains the implementation and experiments for integrating the concept of abstention with active learning to create a model that achieves enhanced decision certainty and similar prediction capabilities to a passive learner, but with significantly lower labeling costs. The approach is particularly useful in real-world scenarios, such as healthcare systems, where accurate and decisive systems are crucial, and labeling costs are expensive.
 
 The project explores the explainability of the resulting models to evaluate their reasonability and trustworthiness, ensuring that the models are not only accurate but also interpretable and reliable.
